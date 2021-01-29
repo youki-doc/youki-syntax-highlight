@@ -3,6 +3,6 @@
   "version": "0.1.2",
   "main": "index.js",
   "dependencies": {
-    "highlight.js": "^9.10.0"
+    "highlight.js": "^10.5.0"
   }
 }
